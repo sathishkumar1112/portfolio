@@ -4,8 +4,8 @@ import {
   Cloud,
   Code2,
   Database,
-  Github,
-  Linkedin,
+  GitBranch,
+  Link2,
   Mail,
   ServerCog,
   Sparkles,
@@ -219,9 +219,9 @@ function App() {
             <p>I'm open to product engineering and full-stack opportunities.</p>
           </div>
           <div className="contact-links">
-            <a href="mailto:YOUR_EMAIL@example.com"><Mail size={18} /> Email</a>
-            <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noreferrer"><Linkedin size={18} /> LinkedIn</a>
-            <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noreferrer"><Github size={18} /> GitHub</a>
+            <a href="mailto:sathishkris369@gmail.com"><Mail size={18} /> Email</a>
+            <a href="https://www.linkedin.com/in/sathishkumar-r-414957177/" target="_blank" rel="noreferrer"><Link2 size={18} /> LinkedIn</a>
+            <a href="https://github.com/sathishkumar1112/" target="_blank" rel="noreferrer"><GitBranch size={18} /> GitHub</a>
           </div>
         </section>
       </main>
